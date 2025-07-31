@@ -23,3 +23,5 @@ A simple graphical tool for merging two **X-UI Sanaei** databases (`x-ui.db`), w
 ## Screen Shot
 ![Screenshot of a X-UI Merge Tool.](https://github.com/Pink210/x-ui-db-merger/blob/main/media/Screenshot%202025-07-31%20223700.png)
 
+## MHSanaei/3x-ui
+https://github.com/MHSanaei/3x-ui
