@@ -18,8 +18,8 @@ A simple graphical tool for merging two **X-UI Sanaei** databases (`x-ui.db`), w
 1. Run the script using Python 3.
 2. Select both source and destination databases.
 3. Enter the source inbound ID and the target inbound ID.
-4. Click "Merge" — Done!
+4. Click "transfer" — Done!
+   
+## Screen Shot
+![Screenshot of a X-UI Merge Tool.](https://github.com/Pink210/x-ui-db-merger/blob/main/media/Screenshot%202025-07-31%20223700.png)
 
-## License
-
-MIT License
